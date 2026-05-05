@@ -1,0 +1,17 @@
+{
+
+    "data": {
+
+        "cybertemp_api_key": "cybertempaPikeyhere",
+
+        "solver_api_key": "xygenapikey"
+
+    },
+
+    "verification": {
+
+        "enabled": true
+
+    }
+
+}
